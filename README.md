@@ -89,22 +89,6 @@ I created this repository to improve my:
 
 ---
 
-# 📂 Repository Structure
-
-```bash
-📁 Pandas-Learning-Journey
- ┣ 📂 Basics
- ┣ 📂 DataFrames
- ┣ 📂 Filtering
- ┣ 📂 Data_Cleaning
- ┣ 📂 CSV_Operations
- ┣ 📂 GroupBy
- ┣ 📂 Practice_Questions
- ┣ 📂 Mini_Projects
- ┗ 📜 README.md
-```
-
----
 
 # 📈 My Learning Progress
 
